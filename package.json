@@ -1,0 +1,14 @@
+{
+  "name": "babel-plugin-minify-emojify-names",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TimothyGu/babel-plugin-minify-emojify-names",
+  "license": "MIT",
+  "dependencies": {
+    "babel-helper-mark-eval-scopes": "^0.0.2",
+    "emojis-list": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1"
+  }
+}
